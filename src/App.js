@@ -125,11 +125,11 @@ function TaskApp() {
   return (
     <div className="container mx-auto p-6 bg-gradient-to-r from-blue-50 to-gray-100 min-h-screen">
       <header className="bg-blue-700 text-white p-4 flex justify-between items-center">
-        <h1 className="text-2xl font-bold">Asal Ngoding Official</h1>
+        <h1 className="text-2xl font-bold">Kelompok 1</h1>
         <span>📅 Tanggal sekarang: {new Date().toLocaleDateString()}</span>
       </header>
 
-      <h2 className="text-4xl font-extrabold text-center text-gray-800 my-8 drop-shadow-lg">Sistem Informasi Tugas Kuliah</h2>
+      <h2 className="text-4xl font-extrabold text-center text-gray-800 my-8 drop-shadow-lg">Management Tugas Kuliah</h2>
 
       <div className="flex flex-col md:flex-row justify-between items-center mb-6 space-y-4 md:space-y-0">
         <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6">
@@ -289,7 +289,7 @@ function TaskApp() {
       </table>
 
       <footer className="bg-gray-800 text-white text-center py-4 mt-8">
-        © 2023 AsalNgodingOfficial
+        © 2025 Kelompok 1
       </footer>
     </div>
   );
